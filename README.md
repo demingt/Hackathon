@@ -3,27 +3,7 @@ hustle for the win
 
 # quick installation start
 
-unzip
-
-In the command line, navigate to the root directory of the unzipped folder.
-
-Initialize the local directory as a Git repository.
-
-`git init main`
-
-To create a repository for your project on GitHub, use the `gh repo create` subcommand. Replace `project-name` with the desired name for your repository. 
-
-`gh repo create project-name`
-
-Follow the interactive prompts. 
-
-Pull changes from the new repository that you created. 
-
-`git pull --set-upstream origin main`
-
-Stage, commit, and push all of the files in your project.
-
-`git add . && git commit -m "initial commit" && git push`
+fork. clone locally.
 
 create a virtual environment for your project
 `python3 -m venv hackathonenv`
