@@ -1,4 +1,4 @@
-# Starter Pack
+# Hackerthon
 hustle for the win
 
 # quick installation start
